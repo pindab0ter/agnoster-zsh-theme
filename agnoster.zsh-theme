@@ -47,7 +47,7 @@ PLUSMINUS="\u00b1"
 BRANCH="\ue0a0"
 DETACHED="\u27a6"
 CROSS="\u2718"
-LIGHTNING="\u26a1"
+LIGHTNING="\u2301"
 GEAR="\u2699"
 
 # Begin a segment
